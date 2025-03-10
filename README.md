@@ -5,3 +5,12 @@
 ## Features
 ### **Add Tasks**: Easily add new tasks to your to-do list.
 ### **Delete Tasks**: Remove completed or unwanted tasks with a single click.
+
+### Output
+*In Big Screen*
+![todo](./todo-ss2.jpg)
+![todo](./todo-ss1.jpg)
+*In Small Screen*
+   - <img src="./todo-ss3.png" width=200px>
+
+   - [Live Demo](https://a-new-todolist.netlify.app/)
