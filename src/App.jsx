@@ -57,7 +57,7 @@ function App() {
   return (
     <>
       <div className=" place-items-center bg-linear-to-b from-fuchsia-900 to-slate-950 min-h-screen min-w-screen pt-14 text-white">
-        <div className="flex bg-white p-4 w-[310px] md:w-[350px] justify-center rounded-md px-8">
+        <div className="flex bg-white p-4 w-[310px] md:w-[350px] justify-center rounded-md px-4">
           <input className=" outline-none w-full p-2 text-black" value={newTask} type="text"  onChange={(e)=>{setNewTask(e.target.value)}} ></input>
           <button className="px-6 bg-fuchsia-900 rounded" onClick={addTask}>Add</button>
         </div>
